@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Deepak Kumar Tiwari
-- 👀 I’m interested in JAVA & Python
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You Reach me Through Email:- deepakkumartiwari999@gmail.com
 
 <!---
