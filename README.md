@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Deepak Kumar Tiwari
--   Software Developer @Balaji Amrut builders & promoters pvt ltd
 - 📫 You Reach me Through Email:- deepakkumartiwari999@gmail.com
 
 <!---
